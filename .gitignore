@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated output is a build artifact — regenerate with `python generate.py`.
+GeneratedCards/*
+!GeneratedCards/.gitkeep

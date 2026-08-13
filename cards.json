@@ -1,0 +1,22 @@
+{
+  "collection": "Kingdom of Eldrath",
+  "imagesDir": "SourceArt",
+  "cards": [
+    { "name": "Village Squire", "type": "CREATURE", "rarity": "COMMON", "image": "Escudeiro da Vila.jpg" },
+    { "name": "Brave Woodcutter", "type": "CREATURE", "rarity": "COMMON", "image": "Lenhador Corajoso.jpg" },
+    { "name": "Golden Plains", "type": "LAND", "rarity": "COMMON", "image": "Planície Dourada.jpg" },
+    { "name": "Lightning Strike", "type": "SORCERY", "rarity": "COMMON", "image": "Golpe Relâmpago.jpg" },
+    { "name": "Rusted Sword", "type": "ARTIFACT", "rarity": "COMMON", "image": "Espada Enferrujada.jpg" },
+    { "name": "Forest Scout", "type": "CREATURE", "rarity": "COMMON", "image": "Batedor da Floresta.jpg" },
+    { "name": "Blacksmith's Apprentice", "type": "CREATURE", "rarity": "COMMON", "image": "Aprendiz de Ferreiro.jpg" },
+    { "name": "Trained Hunting Hound", "type": "CREATURE", "rarity": "COMMON", "image": "Cão de Caça Adestrado.jpg" },
+    { "name": "Knight of the Dawn", "type": "CREATURE", "rarity": "RARE", "image": "Cavaleiro do Alvorecer.jpg" },
+    { "name": "Elven Watchtower", "type": "LAND", "rarity": "RARE", "image": "Torre de Vigia Élfica.jpg" },
+    { "name": "Arcane Storm", "type": "SORCERY", "rarity": "RARE", "image": "Tempestade Arcana.jpg" },
+    { "name": "Helm of the Fallen General", "type": "ARTIFACT", "rarity": "RARE", "image": "Elmo do General Caído.jpg" },
+    { "name": "Young Bronze Dragon", "type": "CREATURE", "rarity": "EPIC", "image": "Dragão Jovem de Bronze.jpg" },
+    { "name": "Ritual of Dawn", "type": "SORCERY", "rarity": "EPIC", "image": "Ritual da Aurora.jpg" },
+    { "name": "Crown of the Ancient Kings", "type": "ARTIFACT", "rarity": "EPIC", "image": "Coroa dos Reis Antigos.jpg" },
+    { "name": "Ancient Golden Dragon", "type": "CREATURE", "rarity": "LEGENDARY", "image": "Dragão Ancião Dourado.jpg" }
+  ]
+}

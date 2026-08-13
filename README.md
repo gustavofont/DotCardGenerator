@@ -4,6 +4,12 @@ Turns raw artwork into finished DotCard card images: procedurally draws the
 frame, rarity-driven border glow, type icon, and text — you only provide the
 illustration.
 
+![Example cards across all four rarities](examples/preview.png)
+
+*(COMMON → LEGENDARY, left to right — same template, escalating border glow.
+These are real output from `GeneratedCards/`, generated from the sample
+`cards.json` shipped in this repo.)*
+
 ## Setup
 
 ```bash
